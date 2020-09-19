@@ -1,0 +1,10 @@
+.tittlefont {
+    font-size: xx-large;
+    color: darkblue;
+    text-align: center;
+}
+.centeredtext {
+    text-align: center;
+    font-size: larger;
+    color: blueviolet;
+}
